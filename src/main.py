@@ -1,3 +1,5 @@
+#Asked ChatGPT for help on producing this code
+
 import datetime
 
 # Get the current date and time
